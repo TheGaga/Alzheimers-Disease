@@ -30,4 +30,4 @@ Alzheimer’s disease (AD) is the 6th deadliest disease in the United States (US
 
 
 ## Contact
-To get access to the full paper, contact [Thomas Galeon](https://github.com/TheGaga)
+To get access to the full paper, contact [Thomas Galeon](https://github.com/TheGaga).
