@@ -28,6 +28,10 @@ Alzheimer’s disease (AD) is the 6th deadliest disease in the United States (US
 
 <img src="IMG/Parameter_sweep_device.PNG" width="600/">
 
+## Provided compuational files
+[COMSOL file for simulation](AD_device_spheroid_Model_only.mph) : Model of Aβ production, aggregation and clearance inside the microfluidic device. Results have been discarded to reduce file size. The simulation can be run again. The total file size including mesh and results will be approximately 450 Mb.
+
+[Python file for aggregation kinetics fit to data](AB_aggregation_kinetics.py) : This script is designed to evaluate the aggregation kinetics of Aβ in physiological conditions by fitting experimental data to the Finke-Watzky 2-step aggregation model. The parameters obtained were then be injected into a COMSOL model for amyloid-beta production, aggregation and degradation in the brain and inside a microfluidic device. The [data](DATA/CSV_Fit_Neurotoxicity_of_AD_AB_peptides_Fig_1A.csv) used for the simulation is also provided.
 
 ## Contact
 To get access to the full paper, contact [Thomas Galeon](https://github.com/TheGaga).
