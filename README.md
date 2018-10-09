@@ -7,20 +7,27 @@ Alzheimer’s disease (AD) is the 6th deadliest disease in the United States (US
 ### Aβ levels in the ISF
 <img src="IMG/Aggregation_kinetics.PNG" width="600/">
 
+
 <img src="IMG/AB_levels_ISF.PNG" width="600/">
+
 
 <img src="IMG/Parameter_sweep_ISF.PNG" width="600/">
 
 ### Aβ levels in the microfluidic device
-<img src="IMG/Microfluidic_device.PNG" width="600/">
+<img src="IMG/Microfluidic_device.PNG" width="400/">
+
 
 <img src="IMG/COMSOL_mesh.PNG" width="600/">
 
+
 <img src="IMG/AB_levels_device.PNG" width="600/">
+
 
 <img src="IMG/Length_sweep_device.PNG" width="600/">
 
+
 <img src="IMG/Parameter_sweep_device.PNG" width="600/">
+
 
 ## Contact
 To get access to the full paper, contact [Thomas Galeon](https://github.com/TheGaga)
