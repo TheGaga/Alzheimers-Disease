@@ -5,7 +5,7 @@ Alzheimer’s disease (AD) is the 6th deadliest disease in the United States (US
 
 ## Key figures obtained using COMSOL and Python
 ### Aβ levels in the ISF
-<img src="IMG/Aggregation_kinetics.png" width="400/">
+<img src="IMG/Aggregation_kinetics.PNG" width="400/">
 
 <img src="IMG/AB_levels_ISF.png" width="400/">
 
